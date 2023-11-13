@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Máy tính\socket\socket\Server\bin\Debug\Server.exe.config
+C:\Users\HP\OneDrive\Máy tính\socket\socket\Server\bin\Debug\Server.exe
+C:\Users\HP\OneDrive\Máy tính\socket\socket\Server\bin\Debug\Server.pdb
+C:\Users\HP\OneDrive\Máy tính\socket\socket\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\socket\socket\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\socket\socket\Server\obj\Debug\Server.Server.resources
+C:\Users\HP\OneDrive\Máy tính\socket\socket\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\socket\socket\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\socket\socket\Server\obj\Debug\Server.exe
+C:\Users\HP\OneDrive\Máy tính\socket\socket\Server\obj\Debug\Server.pdb
